@@ -1,0 +1,29 @@
+{
+  "name": "multiarray",
+  "version": "0.0.1",
+  "description": "Multi-dimensional array implementation, inspired by ndarray.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patgrasso/multiarray.git"
+  },
+  "keywords": [
+    "ndarray",
+    "numerical",
+    "matrix",
+    "tensor",
+    "array",
+    "dimensional",
+    "multi",
+    "multiarray"
+  ],
+  "author": "Pat Grasso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patgrasso/multiarray/issues"
+  },
+  "homepage": "https://github.com/patgrasso/multiarray#readme"
+}
