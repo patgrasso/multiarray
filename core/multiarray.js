@@ -97,7 +97,7 @@ function defineMethod(name, factory) {
 /**
  * Creates a new n-d array and returns it.
  */
-function multiarray(array, shape, dtype) {
+function multiarray(array, shape) {
   var type = array.constructor.name;
 
   shape = shape || utils.shapeOf(array);
